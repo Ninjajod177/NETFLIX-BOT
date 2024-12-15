@@ -24,3 +24,33 @@ Without issues 💀
 ---
 
 This is a direct translation of the original text you provided, with slight adjustments for clarity. Let me know if you need any further modifications!
+
+
+
+# NOTE:
+ PLEASE INSTALL ALL PIP THEN RUN MY  FILE OTHERWISE THIS FILE CANNOT WORK
+
+
+
+# Demo : 
+https://github.com/ziddi-shop/TELEGRAM-INFO.git
+
+# For Any kind of Help 
+
+
+Contact me 
+ On Social media 
+  <li>
+<a href="https://t.me/ziddi_beatz1"> 
+TELEGRAM </a>
+ </li> <li>
+  <a href="https://t.me/ziddi_shop"> 
+More Tools  </a> </li> <li>
+
+
+<a href="https://www.buymeacoffee.com/theofficialvkr"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=theofficialvkr&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+</li> 
+
+# At Last Remember 
+
+i am Developer 👍
